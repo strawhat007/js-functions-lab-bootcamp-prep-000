@@ -29,3 +29,7 @@ function sayHiToGrandma(string) {
 
   return "Are you eating enough?"
 }
+
+function happyHolidays(string) {
+  return (string) "Happy holidays"
+}

@@ -31,5 +31,5 @@ function sayHiToGrandma(string) {
 }
 
 function happyHolidays(string) {
-  return string.mixedCase === "Happy Holidays"
+  return "Happy Holidays"
 }
